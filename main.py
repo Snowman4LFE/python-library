@@ -22,7 +22,7 @@ throwaway_2 = [{"key2": 323},
 DNA_seq = "AGTCTAGCWACGACGTCCAGCTCGACCWAGCAGSCGATAG"
 ProteinSeq = "LLKHMLCMKAGKAMGMMCGLGAMLGMLKKCCHMAGCCKHKKCGMMMHMAKLHAGHHCGHCACGCHKLGMALLAGALACLKMGLHLLKALACKLHGACHGH"
 DNA_sequence = "AGTCTAGC"
-
+#Create variables
 test_1 = DictHelper.ReverseKeyValuePairs(throwaway_1)
 test_2 = ListHelper.SortListOfDictsByKey(throwaway_2)
 test_3 = ListHelper.SortListOfDictsByValue(throwaway_2)
